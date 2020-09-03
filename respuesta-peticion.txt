@@ -1,0 +1,24 @@
+{
+    "standard": {
+        "addresst": {},
+        "city": "Colima",
+        "prov": "MX",
+        "countryname": "Mexico",
+        "postal": {},
+        "confidence": "0.90"
+    },
+    "longt": "-103.71616",
+    "alt": {
+        "loc": {
+            "longt": "-103.72395",
+            "prov": "MX",
+            "city": "Colima",
+            "countryname": "Mexico",
+            "postal": "28000",
+            "region": {},
+            "latt": "19.24260"
+        }
+    },
+    "elevation": {},
+    "latt": "19.24059"
+}
